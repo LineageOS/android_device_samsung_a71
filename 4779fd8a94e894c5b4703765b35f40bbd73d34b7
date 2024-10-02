@@ -51,6 +51,24 @@
       "message": "hey im new here i tried the custom rom on my phone but the quick share is not working",
       "revId": "4779fd8a94e894c5b4703765b35f40bbd73d34b7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5c4e82be_347edd9b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2024-10-02T12:19:23Z",
+      "side": 1,
+      "message": "@personmad876@gmail.com if it\u0027s a71 then open a ticket on lineage\u0027s gitlab issues page, follow the guideline to post it also shipping a logcat would be useful! https://gitlab.com/LineageOS/issues/android/-/issues",
+      "parentUuid": "4683fe03_727016e7",
+      "revId": "4779fd8a94e894c5b4703765b35f40bbd73d34b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
