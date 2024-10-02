@@ -16,6 +16,24 @@
       "message": "Doesn\u0027t this just break NFC? You renamed the service binary without renaming the entry inside the .rc file",
       "revId": "4779fd8a94e894c5b4703765b35f40bbd73d34b7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "74fd0360_35b28763",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2024-10-02T07:04:39Z",
+      "side": 1,
+      "message": "nope, the toggle can be enabled/disabled without problems.",
+      "parentUuid": "e25f3627_8ea8fdab",
+      "revId": "4779fd8a94e894c5b4703765b35f40bbd73d34b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
