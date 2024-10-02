@@ -34,6 +34,23 @@
       "parentUuid": "e25f3627_8ea8fdab",
       "revId": "4779fd8a94e894c5b4703765b35f40bbd73d34b7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4683fe03_727016e7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34193
+      },
+      "writtenOn": "2024-10-02T11:43:33Z",
+      "side": 1,
+      "message": "hey im new here i tried the custom rom on my phone but the quick share is not working",
+      "revId": "4779fd8a94e894c5b4703765b35f40bbd73d34b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
