@@ -16,6 +16,24 @@
       "message": "this will patch already patched rc, breaking it.",
       "revId": "c94c91d85ba73e4264d48f579622aa35886ebfac",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bcecbfe3_3ceeae21",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2024-10-02T08:12:50Z",
+      "side": 1,
+      "message": "@priv.luk@gmail.com so the previous patch is enoguh?",
+      "parentUuid": "7ddac0e0_8b22982f",
+      "revId": "c94c91d85ba73e4264d48f579622aa35886ebfac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
