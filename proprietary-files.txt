@@ -482,10 +482,10 @@ vendor/lib64/libsynaFpSensorTestNwd.so;DISABLE_CHECKELF
 vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so
 
 # NFC
-vendor/bin/hw/nxp.android.hardware.nfc@1.1-service
+vendor/bin/hw/nxp.android.hardware.nfc@1.1-service:vendor/bin/hw/nxp.android.hardware.nfc@1.1-service.samsung;DISABLE_CHECKELF
 vendor/etc/init/init.nfc.samsung.rc
-vendor/etc/init/nxp.android.hardware.nfc@1.1-service.rc
-vendor/lib64/nfc_nci_nxp.so
+vendor/etc/init/nxp.android.hardware.nfc@1.1-service.rc:vendor/etc/init/nxp.android.hardware.nfc@1.1-service.samsung.rc;DISABLE_CHECKELF
+vendor/lib64/nfc_nci_nxp.so;MODULE_SUFFIX=_vendor
 vendor/lib64/vendor.nxp.nxpnfc@1.1.so
 
 # NFC (Firmware)

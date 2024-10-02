@@ -37,6 +37,7 @@ PRODUCT_PACKAGES += \
 # Soong Namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(DEVICE_PATH) \
+    hardware/nxp/nfc/pn8x \
 
 # Get non-open-source specific aspects
 $(call inherit-product, vendor/samsung/a71/a71-vendor.mk)
