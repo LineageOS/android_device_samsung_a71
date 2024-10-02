@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e25f3627_8ea8fdab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-10-02T05:47:02Z",
+      "side": 1,
+      "message": "Doesn\u0027t this just break NFC? You renamed the service binary without renaming the entry inside the .rc file",
+      "revId": "4779fd8a94e894c5b4703765b35f40bbd73d34b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
