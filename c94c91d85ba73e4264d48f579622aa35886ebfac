@@ -34,6 +34,24 @@
       "parentUuid": "7ddac0e0_8b22982f",
       "revId": "c94c91d85ba73e4264d48f579622aa35886ebfac",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f792eba5_1d442612",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-10-02T08:15:31Z",
+      "side": 1,
+      "message": "no, but extracting from already patched source will result in broken rc file.",
+      "parentUuid": "bcecbfe3_3ceeae21",
+      "revId": "c94c91d85ba73e4264d48f579622aa35886ebfac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
