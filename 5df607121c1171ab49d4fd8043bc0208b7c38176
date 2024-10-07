@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "268a98a8_2e263eeb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2024-10-07T20:39:40Z",
+      "side": 1,
+      "message": "I delete just out/target/product/a71 folder and it pass, shall I do clean build to be sure?",
+      "revId": "5df607121c1171ab49d4fd8043bc0208b7c38176",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
