@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c08d54e1_6a011182",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2024-10-07T20:37:41Z",
+      "side": 1,
+      "message": "@priv.luk@gmail.com it seems passing the build now, that error is gone with that changes.",
+      "revId": "0fd2b28999f1ef9fa50a0d9d3ca4cf583f582dc1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
