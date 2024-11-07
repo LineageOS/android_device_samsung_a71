@@ -16,6 +16,24 @@
       "message": "unused",
       "revId": "70e30b9a9731317e0039ebd3afba2f5becddc41a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7ae968ab_80ec8b2d",
+        "filename": "extract-files.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-11-07T17:31:52Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2e02a41c_868448c4",
+      "revId": "70e30b9a9731317e0039ebd3afba2f5becddc41a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
