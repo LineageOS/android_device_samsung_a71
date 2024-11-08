@@ -12,15 +12,10 @@ from extract_utils.main import (
     ExtractUtilsModule,
 )
 
-namespace_imports = [
-    'vendor/samsung/a71-common',
-]
-
 module = ExtractUtilsModule(
     'a71',
     'samsung',
     lib_fixups=lib_fixups,
-    namespace_imports=namespace_imports,
 )
 
 if __name__ == '__main__':
