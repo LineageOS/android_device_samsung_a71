@@ -14,9 +14,6 @@ from extract_utils.main import (
 
 namespace_imports = [
     'vendor/samsung/a71-common',
-    'vendor/qcom/opensource/commonsys/display',
-    'vendor/qcom/opensource/commonsys-intf/display',
-    'vendor/qcom/opensource/display',
 ]
 
 module = ExtractUtilsModule(
