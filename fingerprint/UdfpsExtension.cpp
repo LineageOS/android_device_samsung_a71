@@ -21,3 +21,7 @@ uint64_t getUdfpsUsageBits(uint64_t usageBits, bool touched) {
     }
     return usageBits;
 }
+
+uint32_t getUdfpsDimZOrder(uint32_t z) {
+    return z;
+}
