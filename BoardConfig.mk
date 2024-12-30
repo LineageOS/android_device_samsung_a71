@@ -15,7 +15,7 @@ TARGET_OTA_ASSERT_DEVICE := a71
 TARGET_BOARD_NAME := SRPSF18B010
 
 # FOD
-$(call soong_config_set,samsung_udfps,dimlayerzorder,0x20000000u)
+$(call soong_config_set,samsung_udfps,udfps_zorder,0x20000000u)
 
 TARGET_SURFACEFLINGER_UDFPS_LIB := //hardware/samsung/fingerprint:libudfps_extension.samsung
 TARGET_USES_FOD_ZPOS := true
