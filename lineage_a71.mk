@@ -8,6 +8,7 @@
 $(call inherit-product, device/samsung/a71/device.mk)
 
 # Inherit some common Lineage stuff.
+TARGET_SUPPORTS_OMX_SERVICE := false
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
