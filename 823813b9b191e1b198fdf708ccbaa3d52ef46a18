@@ -34,6 +34,23 @@
       "parentUuid": "04de2ff1_bbc84aaf",
       "revId": "823813b9b191e1b198fdf708ccbaa3d52ef46a18",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "eab0d1b1_86cea3c5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-01-04T23:06:38Z",
+      "side": 1,
+      "message": "You are still using qcom OMX codecs, sm6150 doesn\u0027t have qcom c2 service. This commit will break your hardware codecs entirely. All you can do is just remove the software OMX codecs like other devices",
+      "revId": "823813b9b191e1b198fdf708ccbaa3d52ef46a18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
