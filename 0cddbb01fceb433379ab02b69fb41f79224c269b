@@ -16,6 +16,24 @@
       "message": "unrelated",
       "revId": "0cddbb01fceb433379ab02b69fb41f79224c269b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6c89bebb_fd2cfd0b",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-01-19T20:50:12Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cd469714_286878b3",
+      "revId": "0cddbb01fceb433379ab02b69fb41f79224c269b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
