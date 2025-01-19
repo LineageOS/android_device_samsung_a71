@@ -59,4 +59,7 @@
 
     <!-- Screen off UDFPS -->
     <bool name="config_supportScreenOffUdfps">true</bool>
+
+    <!-- Whether to cancel fingerprint operation if not idle -->
+    <bool name="config_fpCancelIfNotIdle">true</bool>
 </resources>
