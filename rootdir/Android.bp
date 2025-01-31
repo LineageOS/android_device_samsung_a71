@@ -12,3 +12,17 @@ prebuilt_etc {
     sub_dir: "init/hw",
     vendor: true,
 }
+
+prebuilt_etc {
+    name: "init.nfc.samsung.A715F.rc",
+    src: "vendor/etc/init/init.nfc.samsung.A715F.rc",
+    sub_dir: "init/",
+    vendor: true,
+}
+
+prebuilt_etc {
+    name: "init.nfc.samsung.rc",
+    src: "vendor/etc/init/init.nfc.samsung.rc",
+    sub_dir: "init/",
+    vendor: true,
+}
