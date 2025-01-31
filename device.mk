@@ -33,6 +33,8 @@ PRODUCT_PACKAGE_OVERLAYS += \
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.a71.rc \
+    init.nfc.samsung.A715F.rc \
+    init.nfc.samsung.rc \
 
 # Soong Namespaces
 PRODUCT_SOONG_NAMESPACES += \
