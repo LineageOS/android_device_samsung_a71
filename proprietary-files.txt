@@ -393,8 +393,6 @@ vendor/lib64/libsynaFpSensorTestNwd.so;DISABLE_CHECKELF
 vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so
 
 # NFC
-vendor/bin/hw/nxp.android.hardware.nfc@1.1-service;DISABLE_CHECKELF
-vendor/etc/init/nxp.android.hardware.nfc@1.1-service.rc
 vendor/lib64/nfc_nci_nxp.so;MODULE_SUFFIX=_vendor
 vendor/lib64/vendor.nxp.nxpnfc@1.1.so
 

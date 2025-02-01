@@ -153,3 +153,10 @@ on post-fs
 # tracking activation VNG
 #on property:ro.csc.sales_code=XXV
 #   tracking_activation_VNG
+
+service vendor.nfc_hal_service /vendor/bin/hw/android.hardware.nfc-service.nxp
+    override
+    class early_hal
+    user nfc
+    group nfc drmrpc system
+    disabled
