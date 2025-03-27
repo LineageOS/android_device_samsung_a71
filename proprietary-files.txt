@@ -361,20 +361,20 @@ vendor/lib64/camera/com.samsung.sensor.hi1336.so
 vendor/lib64/camera/com.samsung.sensor.imx616.so
 vendor/lib64/camera/com.samsung.sensor.imx682.so
 vendor/lib64/camera/com.samsung.sensor.s5kgw1s.so
-vendor/lib64/camera/com.samsung.sensormodule.0_0_lsi_s5kgw1s_new.bin
-vendor/lib64/camera/com.samsung.sensormodule.0_0_lsi_s5kgw1s_old.bin
-vendor/lib64/camera/com.samsung.sensormodule.0_1_sony_imx682.bin
-vendor/lib64/camera/com.samsung.sensormodule.1_sony_imx616.bin
-vendor/lib64/camera/com.samsung.sensormodule.2_hynix_hi1336.bin
-vendor/lib64/camera/com.samsung.sensormodule.3_lsi_gc5035.bin
-vendor/lib64/camera/com.samsung.sensormodule.4_lsi_gc5035_macro.bin
-vendor/lib64/camera/com.samsung.sensormodule.8_sony_imx616_full.bin
-vendor/lib64/camera/com.samsung.tuned.hynix_hi1336.bin
-vendor/lib64/camera/com.samsung.tuned.lsi_gc5035.bin
-vendor/lib64/camera/com.samsung.tuned.lsi_gc5035_macro.bin
-vendor/lib64/camera/com.samsung.tuned.lsi_s5kgw1s.bin
-vendor/lib64/camera/com.samsung.tuned.sony_imx616.bin
-vendor/lib64/camera/com.samsung.tuned.sony_imx682.bin
+vendor/lib64/camera/com.samsung.sensormodule.0_0_lsi_s5kgw1s_new.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.sensormodule.0_0_lsi_s5kgw1s_old.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.sensormodule.0_1_sony_imx682.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.sensormodule.1_sony_imx616.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.sensormodule.2_hynix_hi1336.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.sensormodule.3_lsi_gc5035.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.sensormodule.4_lsi_gc5035_macro.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.sensormodule.8_sony_imx616_full.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.tuned.hynix_hi1336.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.tuned.lsi_gc5035.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.tuned.lsi_gc5035_macro.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.tuned.lsi_s5kgw1s.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.tuned.sony_imx616.bin;DUMMY_SHARED_LIB
+vendor/lib64/camera/com.samsung.tuned.sony_imx682.bin;DUMMY_SHARED_LIB
 
 # Fingerprint
 vendor/lib/libbauthserver.so
