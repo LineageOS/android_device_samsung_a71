@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d6a72318_e2c7e699",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-03-27T23:28:46Z",
+      "side": 1,
+      "message": "Why are you dropping this? If standalone is not supported, at the very least you should import these configurations into main libnfc-nxp.conf.",
+      "revId": "fa60c34d75045a920c295ff61fa6ead994818d0f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
