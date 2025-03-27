@@ -16,6 +16,24 @@
       "message": "Why are you dropping this? If standalone is not supported, at the very least you should import these configurations into main libnfc-nxp.conf.",
       "revId": "fa60c34d75045a920c295ff61fa6ead994818d0f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "73d8cff4_d697b516",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-03-27T23:31:26Z",
+      "side": 1,
+      "message": "I’ll check it, after fixing RIL it seems broken with the current blobs.",
+      "parentUuid": "d6a72318_e2c7e699",
+      "revId": "fa60c34d75045a920c295ff61fa6ead994818d0f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
