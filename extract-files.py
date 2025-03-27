@@ -6,11 +6,21 @@
 
 from extract_utils.fixups_lib import (
     lib_fixups,
+    lib_fixup_remove,
+    lib_fixups_user_type,
 )
 from extract_utils.main import (
     ExtractUtils,
     ExtractUtilsModule,
 )
+
+def lib_fixup_vendor_suffix(lib: str, partition: str, *args, **kwargs):
+    return f'{lib}_{partition}' if partition == 'vendor' else None
+
+lib_fixups: lib_fixups_user_type = {
+    **lib_fixups,
+     'nfc_nci_nxp': lib_fixup_remove,
+}  # fmt: skip
 
 namespace_imports = [
     'vendor/samsung/a71-common',
