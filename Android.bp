@@ -6,3 +6,101 @@
 
 soong_namespace {
 }
+
+install_symlink {
+    name: "com.samsung.sensormodule.0_0_lsi_s5kgw1s_new.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.sensormodule.0_0_lsi_s5kgw1s_new.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.sensormodule.0_0_lsi_s5kgw1s_new.bin",
+}
+
+install_symlink {
+    name: "com.samsung.sensormodule.0_0_lsi_s5kgw1s_old.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.sensormodule.0_0_lsi_s5kgw1s_old.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.sensormodule.0_0_lsi_s5kgw1s_old.bin",
+}
+
+install_symlink {
+    name: "com.samsung.sensormodule.0_1_sony_imx682.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.sensormodule.0_1_sony_imx682.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.sensormodule.0_1_sony_imx682.bin",
+}
+
+install_symlink {
+    name: "com.samsung.sensormodule.1_sony_imx616.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.sensormodule.1_sony_imx616.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.sensormodule.1_sony_imx616.bin",
+}
+
+install_symlink {
+    name: "com.samsung.sensormodule.2_hynix_hi1336.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.sensormodule.2_hynix_hi1336.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.sensormodule.2_hynix_hi1336.bin",
+}
+
+install_symlink {
+    name: "com.samsung.sensormodule.3_lsi_gc5035.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.sensormodule.3_lsi_gc5035.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.sensormodule.3_lsi_gc5035.bin",
+}
+
+install_symlink {
+    name: "com.samsung.sensormodule.4_lsi_gc5035_macro.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.sensormodule.4_lsi_gc5035_macro.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.sensormodule.4_lsi_gc5035_macro.bin",
+}
+
+install_symlink {
+    name: "com.samsung.sensormodule.8_sony_imx616_full.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.sensormodule.8_sony_imx616_full.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.sensormodule.8_sony_imx616_full.bin",
+}
+
+install_symlink {
+    name: "com.samsung.tuned.hynix_hi1336.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.tuned.hynix_hi1336.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.tuned.hynix_hi1336.bin",
+}
+
+install_symlink {
+    name: "com.samsung.tuned.lsi_gc5035.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.tuned.lsi_gc5035.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.tuned.lsi_gc5035.bin",
+}
+
+install_symlink {
+    name: "com.samsung.tuned.lsi_gc5035_macro.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.tuned.lsi_gc5035_macro.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.tuned.lsi_gc5035_macro.bin",
+}
+
+install_symlink {
+    name: "com.samsung.tuned.lsi_s5kgw1s.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.tuned.lsi_s5kgw1s.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.tuned.lsi_s5kgw1s.bin",
+}
+
+install_symlink {
+    name: "com.samsung.tuned.sony_imx616.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.tuned.sony_imx616.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.tuned.sony_imx616.bin",
+}
+
+install_symlink {
+    name: "com.samsung.tuned.sony_imx682.bin_symlink",
+    vendor: true,
+    installed_location: "vendor/lib64/com.samsung.tuned.sony_imx682.bin",
+    symlink_target: "vendor/lib64/camera/com.samsung.tuned.sony_imx682.bin",
+}
