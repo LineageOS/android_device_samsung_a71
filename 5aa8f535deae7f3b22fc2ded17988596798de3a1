@@ -86,6 +86,24 @@
       "message": "@bgcngm@gmail.com removing that prebuilts 1.1 make nfc disappeared from the settings.",
       "revId": "5aa8f535deae7f3b22fc2ded17988596798de3a1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e9e116fe_d6707db4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-03-29T22:07:49Z",
+      "side": 1,
+      "message": "What if you keep prebuilt 1.1 and drop this aidl service?",
+      "parentUuid": "08dc978a_065715de",
+      "revId": "5aa8f535deae7f3b22fc2ded17988596798de3a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
