@@ -105,6 +105,24 @@
       "parentUuid": "786e2580_4b9c3e52",
       "revId": "c0b476f7f09c78283d2924d893a61ec32bd2821a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4cca2e1a_faba8487",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-03-29T23:51:29Z",
+      "side": 1,
+      "message": "yep switching to oss nfc_nci_nxp has fixed the issue.",
+      "parentUuid": "1bb63114_dbe11268",
+      "revId": "c0b476f7f09c78283d2924d893a61ec32bd2821a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
