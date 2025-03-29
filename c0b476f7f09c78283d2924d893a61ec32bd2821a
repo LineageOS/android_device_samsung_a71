@@ -16,6 +16,24 @@
       "message": "This seems wrong.",
       "revId": "c0b476f7f09c78283d2924d893a61ec32bd2821a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6c13d271_5f05ef42",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-03-29T21:48:57Z",
+      "side": 1,
+      "message": "do I need something specific to fix such errors, because I’m getting similar errors with some .bin blobs.",
+      "parentUuid": "aaac5ee4_70a929a9",
+      "revId": "c0b476f7f09c78283d2924d893a61ec32bd2821a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
