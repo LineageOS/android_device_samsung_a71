@@ -104,6 +104,41 @@
       "parentUuid": "08dc978a_065715de",
       "revId": "5aa8f535deae7f3b22fc2ded17988596798de3a1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b351c374_fb530064",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-03-29T22:49:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e9e116fe_d6707db4",
+      "revId": "5aa8f535deae7f3b22fc2ded17988596798de3a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e5f207a0_96907b13",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-03-29T22:49:42Z",
+      "side": 1,
+      "message": "Keeping prebuilt 1.1, nfc works without issue and without that aidl service.",
+      "revId": "5aa8f535deae7f3b22fc2ded17988596798de3a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
