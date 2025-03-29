@@ -34,6 +34,23 @@
       "parentUuid": "4abe8a98_baf4f2aa",
       "revId": "5aa8f535deae7f3b22fc2ded17988596798de3a1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4c9d6eff_f180cc61",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-03-29T21:42:04Z",
+      "side": 1,
+      "message": "Something seems really off in this tree. Why were you building 1.2 service and shipping prebuilt 1.1 service at the same time?",
+      "revId": "5aa8f535deae7f3b22fc2ded17988596798de3a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
