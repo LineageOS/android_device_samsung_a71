@@ -34,9 +34,6 @@ PRODUCT_PACKAGES += \
 TARGET_HAS_UDFPS := true
 
 # NFC
-PRODUCT_PACKAGES += \
-    android.hardware.nfc@1.2-service \
-
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/rootdir/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     $(DEVICE_PATH)/rootdir/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
