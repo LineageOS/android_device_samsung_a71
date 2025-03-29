@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ece92d5d_23f35833",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-03-29T20:50:33Z",
+      "side": 1,
+      "message": "I managed to fix this error by moving to: android.hardware.nfc2-service.nxp and NFC seems to work too.",
+      "revId": "f54ba04b35da1ee691849cd6fcd59256b6e90cf6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
