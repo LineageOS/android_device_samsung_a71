@@ -52,6 +52,24 @@
       "parentUuid": "6c13d271_5f05ef42",
       "revId": "c0b476f7f09c78283d2924d893a61ec32bd2821a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bdaa85ad_a5034211",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-03-29T23:22:12Z",
+      "side": 1,
+      "message": "@bgcngm@gmail.com I’m getting the fowlloing out:\nerror: build/soong/fsgen/Android.bp:31:1: module \"lineage_a71_generated_vendor_image\" variant \"android_common\" (created by module \"soong_filesystem_creator\" variant \"andr\noid_common\"): packaging conflict at lib64/nfc_nci_nxp.so:\n{lib64/nfc_nci_nxp.so {{{.intermediates/vendor/samsung/a71/nfc_nci_nxp_vendor/android_vendor_arm64_armv8-2a-dotprod_cortex-a55_shared/nfc_nci_nxp.so nfc_nci_nxp.so} out/s\noong out/soong/.intermediates/vendor/samsung/a71/nfc_nci_nxp_vendor/android_vendor_arm64_armv8-2a-dotprod_cortex-a55_shared/nfc_nci_nxp.so}}  false 0xc1e96471b8 vendor fa\nlse 0xc1e9c1e3c0 {arm64 Arm64 lib64} 0xc1e96471d0 nfc_nci_nxp_vendor}\n{lib64/nfc_nci_nxp.so {{{.intermediates/hardware/nxp/nfc/pn8x/nfc_nci_nxp/android_vendor_arm64_armv8-2a-dotprod_cortex-a55_shared/nfc_nci_nxp.so nfc_nci_nxp.so} out/soong\n out/soong/.intermediates/hardware/nxp/nfc/pn8x/nfc_nci_nxp/android_vendor_arm64_armv8-2a-dotprod_cortex-a55_shared/nfc_nci_nxp.so}}  false 0xc1e907f110 vendor false 0xc1\ne7afcbc0 {arm64 Arm64 lib64} 0xc1e907f128 nfc_nci_nxp}",
+      "parentUuid": "0a113bca_0014454f",
+      "revId": "c0b476f7f09c78283d2924d893a61ec32bd2821a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
