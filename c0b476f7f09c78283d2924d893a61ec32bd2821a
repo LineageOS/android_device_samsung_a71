@@ -123,6 +123,23 @@
       "parentUuid": "1bb63114_dbe11268",
       "revId": "c0b476f7f09c78283d2924d893a61ec32bd2821a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a2b60df2_235d3226",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-03-30T00:02:07Z",
+      "side": 1,
+      "message": "OSS nfc_nci_nxp breaks NFC apparently, I need to reflect on this a bit lol.",
+      "revId": "c0b476f7f09c78283d2924d893a61ec32bd2821a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
