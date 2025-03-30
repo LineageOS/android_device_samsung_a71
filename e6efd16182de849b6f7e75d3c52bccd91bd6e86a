@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c9fdc9b2_84d8100b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-03-30T23:35:11Z",
+      "side": 1,
+      "message": "There\u0027s probably a better way around it. I don\u0027t remember if it was DUMMY_SHARED_LIB or MAKE_COPY_RULE_ONLY. Try that as arg in the affected blobs.",
+      "revId": "e6efd16182de849b6f7e75d3c52bccd91bd6e86a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
