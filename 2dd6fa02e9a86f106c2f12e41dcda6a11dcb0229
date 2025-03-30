@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "74e5ee22_abd6c3c0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-03-30T23:16:53Z",
+      "side": 1,
+      "message": "reason for re-adding DISABLE_CHECKELF to vendor/bin/hw/nxp.android.hardware.nfc@1.1-service:\nout/soong/.intermediates/vendor/samsung/a71/nxp.android.hardware.nfc@1.1-service/android_vendor_arm64_armv8-2a-dotprod_cortex-a55/nxp.android.hardware.nfc@1.1-service\n: error: DT_NEEDED \"nfc_nci_nxp.so\" is not specified in shared_libs.",
+      "revId": "2dd6fa02e9a86f106c2f12e41dcda6a11dcb0229",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
