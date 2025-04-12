@@ -52,6 +52,24 @@
       "parentUuid": "fe33b9df_015bd715",
       "revId": "aaa2da72eddc231fecf669cb2c900003cd98ed44",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bd08c47d_d05ad60b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-04-12T14:20:58Z",
+      "side": 1,
+      "message": "ig like this, via Android.bp:\nprebuilt_hidl_interfaces {\n    name: \"hidl_nxpnfc_interface\",\n    interfaces: [\n        \"vendor.nxp.nxpnfc@1.1::INxpNfc\",\n    ],\n}",
+      "parentUuid": "57f2e267_50bb341b",
+      "revId": "aaa2da72eddc231fecf669cb2c900003cd98ed44",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
