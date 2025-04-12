@@ -34,6 +34,24 @@
       "parentUuid": "b758be29_ba7c9e13",
       "revId": "aaa2da72eddc231fecf669cb2c900003cd98ed44",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "57f2e267_50bb341b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-04-12T14:19:15Z",
+      "side": 1,
+      "message": "The proper fix, keeping the stock rc file, is to define the prebuilt hidl_interface.",
+      "parentUuid": "fe33b9df_015bd715",
+      "revId": "aaa2da72eddc231fecf669cb2c900003cd98ed44",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
