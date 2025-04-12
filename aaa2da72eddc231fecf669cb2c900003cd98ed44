@@ -16,6 +16,24 @@
       "message": "This is not the proper fix.",
       "revId": "aaa2da72eddc231fecf669cb2c900003cd98ed44",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fe33b9df_015bd715",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26928
+      },
+      "writtenOn": "2025-04-12T14:14:56Z",
+      "side": 1,
+      "message": "Can be fixed via extract-files.py?",
+      "parentUuid": "b758be29_ba7c9e13",
+      "revId": "aaa2da72eddc231fecf669cb2c900003cd98ed44",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
