@@ -17,6 +17,14 @@ PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A715
 PRODUCT_MANUFACTURER := samsung
 
+# Matrixx stuff
+MATRIXX_CHIPSET := SnapDragon730
+MATRIXX_BATTERY := 4500mah
+MATRIXX_DISPLAY := 1080 x 2400
+MATRIXX_MAINTAINER := Citty
+MATRIXX_BUILD_TYPE := Unofficial
+MATRIXX_MAINTAINER := Citty
+
 # Use the latest approved GMS identifiers
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
